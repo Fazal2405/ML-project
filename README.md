@@ -20,7 +20,7 @@ Includes EDA → feature engineering → multiple models (incl. XGBoost) → pre
 - Add plots under `docs/` and embed them in this README
 
 ## 🧰 Tech
-Python, Pandas, NumPy, scikit-learn, XGBoost, Matplotlib/Seaborn, Jupyter.
+Python, Pandas, NumPy, scikit-learn, XGBoost, Matplotlib/Seaborn, Jupyter.  
 
 ## 🚀 Quickstart
 ```bash
