@@ -1,0 +1,35 @@
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+
+# Builds
+dist/
+build/
+*.egg-info/
+
+# Secrets / env
+.env
+*.env
+
+# Data & artifacts (keep only tiny samples)
+data/
+!data/processed/
+!data/raw/README.md
+models/
+outputs/
+reports/*.log
+wandb/
+mlruns/
